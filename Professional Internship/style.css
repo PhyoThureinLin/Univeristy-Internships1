@@ -1,0 +1,316 @@
+@charset "utf-8";
+#apDivBanner {
+	height: 200px;
+	width: 950px;
+	position: absolute;
+}
+#apDivMenu {
+	height: 67px;
+	width: 950px;
+	position: absolute;
+	top: 210px;
+	word-spacing: 100px;
+	background-color: #b82e28;
+}
+#apDivCollage {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	top: 280px;
+}
+#apDivLife {
+	height: 640px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+}
+
+#apDivMiddle {
+	height: 450px;
+	width: 950px;
+	position: absolute;
+	top: 465px;
+	background-color: #f4eddb;
+}
+#apDivTextsPhoto {
+	height: 264px;
+	width: 650px;
+	position: absolute;
+	left: 150px;
+	top: 650px;
+	background-repeat: no-repeat;
+	background-image: url(Images/Researchintern.jpg);
+}
+
+#apDivUndergraduate {
+	height: 255px;
+	width: 457px;
+	position: absolute;
+	left: 25px;
+	top: 985px;
+	background-color: #f4eddb;
+}
+#apDivGraduate {
+	height: 255px;
+	width: 457px;
+	position: absolute;
+	left: 485px;
+	top: 985px;
+	background-color: #f4eddb;
+}
+
+
+#apDivProgrammes {
+	height: 350px;
+	width: 950px;
+	position: absolute;
+	top: 920px;
+	background-color: #b82e28;
+}
+
+
+#apDivRightContent {
+	height: 500px;
+	width: 346px;
+	position: absolute;
+	top: 280px;
+	left: 612px;
+	background-color: #f4eddb;
+}
+#apDivVideo {
+	height: 300px;
+	width: 346px;
+	position: absolute;
+	left: 612px;
+	top: 784px;
+}
+#apDivLeftBottom {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	top: 685px;
+	background-image: url(Images/Campus.jpg);
+}
+#apDivBottom {
+	height: 180px;
+	width: 950px;
+	position: absolute;
+	top: 1090px;
+	background-image: url(Images/Students.jpg);
+	background-repeat: no-repeat;
+}
+#apDivPhoto {
+	height: 180px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+	background-image: url(Images/Internships.jpg);
+	background-repeat: no-repeat;
+}
+
+#apDivFooter {
+	height: 300px;
+	width: 950px;
+	position: absolute;
+	top: 1275px;
+}
+#apDivUs {
+	height: 987px;
+	width: 950px;
+	position: absolute;
+	top: 283px;
+	background-color: #f4eddb;
+}
+#apDivDna {
+	height: 471px;
+	width: 296px;
+	position: absolute;
+	left: 15px;
+	top: 308px;
+	background-image: url(Images/Dna.jpg);
+	background-repeat: no-repeat;
+	background-color: #ffffff;
+}
+#apDivTrustees {
+	height: 471px;
+	width: 296px;
+	position: absolute;
+	left: 326px;
+	top: 308px;
+	background-color: #ffffff;
+	background-image: url(Images/Trustees.jpg);
+	background-repeat: no-repeat;
+}
+#apDivAdminstration {
+	height: 471px;
+	width: 296px;
+	position: absolute;
+	left: 637px;
+	top: 308px;
+	background-color: #ffffff;
+	background-image: url(Images/Adminstration.jpg);
+	background-repeat: no-repeat;
+}
+#apDivEmployment {
+	height: 471px;
+	width: 296px;
+	position: absolute;
+	left: 15px;
+	top: 794px;
+	background-color: #ffffff;
+	background-image: url(Images/Employment.jpg);
+	background-repeat: no-repeat;
+}
+#apDivRelations {
+	position: absolute;
+	left: 326px;
+	top: 794px;
+	height: 471px;
+	width: 296px;
+	background-color: #ffffff;
+	background-image: url(Images/PublicRelations.jpg);
+	background-repeat: no-repeat;
+}
+#apDivOffices {
+	height: 471px;
+	width: 296px;
+	position: absolute;
+	left: 637px;
+	top: 794px;
+	background-color: #ffffff;
+	background-image: url(Images/Offices.jpg);
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+#apDivStudentLife {
+	height: 340px;
+	width: 950px;
+	position: absolute;
+	top: 925px;
+}
+#apDivLifecolor {
+	height: 262px;
+	width: 950px;
+	position: absolute;
+	top: 1008px;
+	background-color: #b82e28;
+}
+#apDivJoinUs {
+	height: 232px;
+	width: 300px;
+	position: absolute;
+	left: 640px;
+	top: 1025px;
+	background-image: url(Images/JoinUs.jpg);
+}
+
+
+
+#apDivCareers {
+	height: 990px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+	background-color: #f4eddb;
+}
+#apDivCareerPhoto {
+	height: 286px;
+	width: 430px;
+	position: absolute;
+	left: 470px;
+	top: 730px;
+	background-color: #c5c5c5;
+}
+#apDivProcess {
+	height: 180px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+}
+#apDivProcessPhoto {
+	height: 152px;
+	width: 867px;
+	position: absolute;
+	left: 35px;
+	top: 358px;
+	background-image: url(Images/AppProcess1.jpeg);
+}
+#apDivApplyColor {
+	height: 372px;
+	width: 950px;
+	position: absolute;
+	top: 593px;
+	background-color: #f4eddb;
+}
+#apDivApplyPhoto {
+	height: 370px;
+	width: 428px;
+	position: absolute;
+	top: 570px;
+	background-image: url(Images/Research.jpg);
+	left: 500px;
+}
+#apDivApplication {
+	height: 300px;
+	width: 475px;
+	position: absolute;
+	top: 970px;
+	background-color: #b82e28;
+	left: 483px;
+}
+#apDivAppForm {
+	height: 300px;
+	width: 475px;
+	position: absolute;
+	top: 970px;
+}
+
+
+#apDivApply {
+	height: 450px;
+	width: 950px;
+	position: absolute;
+	top: 515px;
+}
+#apDivLife {
+	height: 640px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+	background-image: url(Images/Group.jpg);
+}
+#apDivUgrads {
+	height: 990px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+	background-color: #f4eddb;
+}
+
+#apDivSoftwarePhoto {
+	height: 430px;
+	width: 950px;
+	position: absolute;
+	top: 280px;
+}
+#apDivGrads {
+	height: 555px;
+	width: 950px;
+	position: absolute;
+	top: 715px;
+	background-color: #f4eddb;
+}
+#apDivGradIntern {
+	height: 150px;
+	width: 400px;
+	position: absolute;
+	left: 40px;
+	top: 500px;
+	background-color: #cc0000;
+}
