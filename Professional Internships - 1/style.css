@@ -1,0 +1,289 @@
+@charset "utf-8";
+#apDivBanner {
+    position: absolute;
+    width: 950px;
+    height: 200px;
+    background-image: url(Images/Web_banner.jpg);
+    background-repeat: no-repeat;
+}
+#apDivMenu {
+    position: absolute;
+    width: 950px;
+    height: 50px;
+    top: 210px;
+    text-align: center;
+    word-spacing: 1cm;
+    background-color: #7EF2C7;
+    border: thin solid #000000;
+}
+#apDivCollage {
+    background-image: url(Images/collage.jpg);
+    top: 265px;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+#apDivRightContent {
+    width: 435px;
+    height: 445px;
+    top: 255px;
+    left: 515px;
+    position: absolute;
+}
+#apDivLeftBottom {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 760px;
+}
+#apDivVideo {
+    width: 435px;
+    height: 245px;
+    position: absolute;
+    top: 815px;
+    left: 515px;
+}
+#apDivFooter {
+    width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 1065px;
+    background-repeat: no-repeat;
+    text-align: right;
+    background-image: url(Images/Footer1.jpg);    
+}
+#apDivRightBottom {
+    width: 435px;
+    height: 50px;
+    position: absolute;
+    top: 760px;
+    left: 515px;
+}
+#apDivRightContentSecond {
+    width: 435px;
+    height: 50px;
+    position: absolute;
+    top: 705px;
+    left: 515px;
+}
+    
+#apDivCopyright {
+    position: absolute;
+    top: 1265px;
+    width: 950px;
+    height: 50px;
+    background-image: url(Images/copyright.jpg);
+    background-repeat: no-repeat;
+}
+#apDivAboutPrincetonUniversity {
+    width: 950px;
+    height: 1065px;
+    position: absolute;
+    top: 255px;
+}
+#apDivContactUs {
+    width: 950px;
+	height: 1065px;
+    position: absolute;
+    top: 255px;
+}
+#apDivLearningOutcomes {
+ 	width: 950px;
+	height: 1065px;
+    position: absolute;
+    top: 255px;
+}
+#apDivInternshipsandJobs {
+	width: 950px;
+	height: 90px;
+    position: absolute;
+    top: 255px;
+}
+#apDivInternships11 {
+    width: 950px;
+    height: 200px;
+    position: absolute;
+    top: 350px;
+    background-image: url(Images/Picture%201.jpg);
+    background-repeat: no-repeat;
+}
+#apDivInternships22 {
+    width: 950px;
+    height: 200px;
+    position: absolute;
+    top: 565px;
+	left: 50px;
+    background-image: url(Images/Picture%202.jpg);
+    background-repeat: no-repeat;
+    color: #000000;
+}
+#apDivInternships33 {
+    width: 950px;
+    height: 200px;
+    position: absolute;
+    top: 780px;
+    background-image: url(Images/Picture%203.jpg);
+    background-repeat: no-repeat;
+}
+#apDivCareerResearch{
+	width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 350px;
+	left: 400px
+}
+#apDivVirtualInterviewRooms {
+	width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 780px;
+	left: 450px
+}
+#apDivExternalLinks {
+	width: 950px;
+    height: 50px;
+    position: absolute;
+    top: 990px;
+}
+#apDivInternationalStudents {
+	width: 950px;
+    height: 810px;
+    position: absolute;
+    top: 255px;
+}
+#apDivFooter1 {
+	width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 1195px;
+    background-image: url(Images/Footer1.jpg);
+    background-repeat: no-repeat;
+    text-align: right;
+}
+#apDivCopyright1 {
+	position: absolute;
+    top: 1395px;
+    width: 950px;
+    height: 50px;
+    background-image: url(Images/copyright.jpg);
+    background-repeat: no-repeat;
+}
+#apDivSummerProgramsLeftContent {
+	position: absolute;
+    top: 255px;
+    width: 400px;
+    height: 400px;
+}
+#apDivSummerProgramsRightContent {
+    position: absolute;
+    top: 332px;
+    width: 530px;
+    height: 300px;
+    left: 421px;
+}
+#apDivSummerProgramsBottomContent {
+	position: absolute;
+    top: 660px;
+    width: 950px;
+    height: 300px;
+}
+#apDivFooter2{
+	width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 1365px;
+    background-image: url(Images/Footer1.jpg);
+    background-repeat: no-repeat;
+    text-align: right;
+}
+#apDivCopyright2{
+	position: absolute;
+    top: 1565px;
+    width: 950px;
+    height: 50px;
+    background-image: url(Images/copyright.jpg);
+    background-repeat: no-repeat;
+}
+#apDivCurrentJobOpportunities {
+    width: 950px;
+    height: 90px;
+    position: absolute;
+    top: 265px;
+    font-size: large;
+    background-color: #92D2ED;    
+}
+#apDivCurrentJobOpportunitiesContents {
+	width: 950px;
+    height: 2000px;
+    position: absolute;
+    top: 360px;
+}
+#apDivFooter3 {
+	width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 2350px;
+    background-image: url(Images/Footer1.jpg);
+    background-repeat: no-repeat;
+    text-align: right;
+}
+#apDivCopyright3 {
+	position: absolute;
+    top: 2550px;
+    width: 950px;
+    height: 50px;
+    background-image: url(Images/copyright.jpg);
+    background-repeat: no-repeat;
+}#apDivCurrentJobLeft {
+	width: 310px;
+    height: 300px;
+    position: absolute;
+    top: 2050px;
+}
+#apDivCurrentJobMiddle {
+	width: 310px;
+    height: 400px;
+    position: absolute;
+    top: 2050px;
+	left: 320px
+}
+#apDivCurrentJobRight {
+	width: 310px;
+    height: 300px;
+    position: absolute;
+    top: 2050px;
+	left: 640px
+}
+#apDivApply {
+    width: 310px;
+    height: 150px;
+    position: absolute;
+    top: 260px;
+    left: 320px;
+    font-size: x-large;
+}
+#apDivApplyContent {
+    width: 950px;
+    height: 1000px;
+    position: absolute;
+    top: 440px;
+    text-align: justify;
+}
+#apDivFooter4 {
+	width: 950px;
+    height: 250px;
+    position: absolute;
+    top: 2000px;
+    background-image: url(Images/Footer1.jpg);
+    background-repeat: no-repeat;
+    text-align: right;
+}
+#apDivCopyright4 {
+	position: absolute;
+    top: 2200px;
+    width: 950px;
+    height: 50px;
+    background-image: url(Images/copyright.jpg);
+    background-repeat: no-repeat;
+}
